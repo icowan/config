@@ -3,7 +3,7 @@ package config
 import (
 	"strings"
 
-	"github.com/Unknwon/goconfig"
+	"github.com/unknwon/goconfig"
 )
 
 const (
